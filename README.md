@@ -7,7 +7,7 @@ In this toy project, we aim to build a deep learning clssifier that predicts whe
 
   Cat            |  Dog
 :--------------:|:--------:
-![](figures/cat.0.jpg)  |  ![](figures/dog.0.jpg)
+![](figures/cat.4.jpg)  |  ![](figures/dog.4.jpg)
 
 
 
