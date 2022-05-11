@@ -1,0 +1,5 @@
+python3 -m venv project
+sourch project/bin/activate
+deactivate
+pip list
+torchm pandas, numpy, torchvision, matplotlib, pillow, tqdm
